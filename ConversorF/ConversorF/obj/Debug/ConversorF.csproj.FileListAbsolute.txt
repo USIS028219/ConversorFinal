@@ -1,0 +1,29 @@
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\bin\Debug\ConversorF.exe.config
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\bin\Debug\ConversorF.exe
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\bin\Debug\ConversorF.pdb
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.csprojAssemblyReference.cache
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.Form1.resources
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.Properties.Resources.resources
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.csproj.GenerateResource.cache
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.csproj.CoreCompileInputs.cache
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.exe
+C:\Users\laura Guerrero\Desktop\Conversor Walberto\ConversorF\ConversorF\obj\Debug\ConversorF.pdb
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.exe.config
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.exe
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.pdb
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.exe
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.pdb
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.csprojResolveAssemblyReference.cache
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.Form1.resources
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.Properties.Resources.resources
+C:\Users\Julio Pineda\Desktop\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.csproj.GenerateResource.Cache
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.exe.config
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.exe
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\bin\Debug\ConversorF.pdb
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.csprojAssemblyReference.cache
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.Form1.resources
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.Properties.Resources.resources
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.csproj.GenerateResource.cache
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.csproj.CoreCompileInputs.cache
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.exe
+C:\Users\laura Guerrero\Documents\ConversorF\ConversorF\ConversorF\obj\Debug\ConversorF.pdb
